@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/covifeed/static/css/main.c7df7d98.chunk.css",
+    "main.js": "/covifeed/static/js/main.b16946c5.chunk.js",
+    "main.js.map": "/covifeed/static/js/main.b16946c5.chunk.js.map",
+    "runtime-main.js": "/covifeed/static/js/runtime-main.110c91e9.js",
+    "runtime-main.js.map": "/covifeed/static/js/runtime-main.110c91e9.js.map",
+    "static/css/2.f2512455.chunk.css": "/covifeed/static/css/2.f2512455.chunk.css",
+    "static/js/2.daee5fa6.chunk.js": "/covifeed/static/js/2.daee5fa6.chunk.js",
+    "static/js/2.daee5fa6.chunk.js.map": "/covifeed/static/js/2.daee5fa6.chunk.js.map",
+    "static/js/3.71cfbf47.chunk.js": "/covifeed/static/js/3.71cfbf47.chunk.js",
+    "static/js/3.71cfbf47.chunk.js.map": "/covifeed/static/js/3.71cfbf47.chunk.js.map",
+    "index.html": "/covifeed/index.html",
+    "static/css/2.f2512455.chunk.css.map": "/covifeed/static/css/2.f2512455.chunk.css.map",
+    "static/css/main.c7df7d98.chunk.css.map": "/covifeed/static/css/main.c7df7d98.chunk.css.map",
+    "static/js/2.daee5fa6.chunk.js.LICENSE.txt": "/covifeed/static/js/2.daee5fa6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.110c91e9.js",
+    "static/css/2.f2512455.chunk.css",
+    "static/js/2.daee5fa6.chunk.js",
+    "static/css/main.c7df7d98.chunk.css",
+    "static/js/main.b16946c5.chunk.js"
+  ]
+}
