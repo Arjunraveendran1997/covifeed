@@ -1,0 +1,12 @@
+.main-head{
+    text-align: center;
+    margin-top: 10px;
+    font-size: 35px;
+    font-family: 'Acme', sans-serif;
+}
+
+.copy-right{
+    text-align: center;
+    margin-top: 15px;
+    font-weight: bolder;
+}

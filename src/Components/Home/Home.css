@@ -1,0 +1,48 @@
+.home-pic{
+    height: 330px;
+    width: 50%;
+    
+}
+
+.home-head{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    font-size: 60px;
+    font-family: 'Abril Fatface', cursive;
+    background: cyan;
+    margin-top: 10px;
+}
+
+.home-pic{
+    width: 100%;
+    margin-left: -10px;
+}
+
+.second-head{
+    text-align: center;
+}
+
+.third-head{
+    text-align: center;
+}
+
+.footer-github{
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+}
+
+.footer-linkedin{
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+}
+
+.github{
+    margin-left: 5px;
+}
+
+.linkedin{
+    margin-left: 5px;
+}
